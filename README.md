@@ -371,3 +371,8 @@ Performs perspective transformation to 450×450 square
 - Undo if no step works
 - Keep undoing until the next choice becomes available
 - Stop when either the board is solved or all solutions are exhausted
+
+# References
+
+- LLM generation
+- https://efcms.engr.utk.edu/ef230-2023-08/modules/matlab-algorithms/iPhone%20Sudoku%20Grab%20%20How%20does%20it%20all%20work%20.htm
