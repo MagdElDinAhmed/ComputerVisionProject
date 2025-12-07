@@ -2,6 +2,8 @@
 
 The project uses computer vision techniques like contrast manipulation, rotation, morphological operations, and Hough transforms to extract the Sudoku board, recognize the numbers using OCR, and solve the Sudoku puzzle.
 
+To run it properly, we recommend having a folder called inputs for the images and use the folder for the templates.
+
 # The Pipeline
 
 # First Image Preprocessing
