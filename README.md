@@ -367,6 +367,7 @@ Performs perspective transformation to 450×450 square
 
 # Sudoku Solver
 
+- Check if the puzzle layout is legal before solving, abort if not
 - Use a simple backtracking algorithm that operates recursively to fill the puzzle
 - Undo if no step works
 - Keep undoing until the next choice becomes available
