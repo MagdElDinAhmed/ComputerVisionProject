@@ -375,6 +375,27 @@ Performs perspective transformation to 450×450 square
 - Keep undoing until the next choice becomes available
 - Stop when either the board is solved or all solutions are exhausted
 
+# Results
+
+| Image Number | Original | Processed |
+|:-----------|:------:|:--------:|
+| 1 | <img src="https://github.com/user-attachments/assets/0b40989d-e3e3-427f-9a79-176a607c6278" width="300"> | <img src="https://github.com/user-attachments/assets/2a8b9e31-f31b-41b6-bc07-276531afdb1e" width="300"> |
+| 2 | <img src="https://github.com/user-attachments/assets/ad12a634-d125-4552-99d5-32927967f6e5" width="300"> | <img src="https://github.com/user-attachments/assets/2a8b9e31-f31b-41b6-bc07-276531afdb1e" width="300"> |
+| 3 | <img src="https://github.com/user-attachments/assets/f4afccc3-c513-4e5f-801a-2fccc07eb6da" width="300"> | <img src="https://github.com/user-attachments/assets/5b650a0a-4e5c-4f6b-b43a-3de19b7502f0" width="300"> |
+| 4 | <img src="https://github.com/user-attachments/assets/89a44f47-411c-45f5-b49e-0c8814820c34" width="300"> | <img src="https://github.com/user-attachments/assets/a7e8fb92-5851-44df-aae8-7f9bb49b6b09" width="300"> |
+| 5 | <img src="https://github.com/user-attachments/assets/135a87d2-7902-4f6c-8f85-f7de42723e14" width="300"> | <img src="https://github.com/user-attachments/assets/734157f5-1ed6-4522-b2d3-0fd74a23af7a" width="300"> |
+| 6 | <img src="https://github.com/user-attachments/assets/2bd3c8cd-ca70-4956-a468-5ee6b1315dc2" width="300"> | <img src="https://github.com/user-attachments/assets/510f156f-60a8-4c26-b2cd-8bcac1312784" width="300"> |
+| 7 | <img src="https://github.com/user-attachments/assets/36237c8e-3c15-4242-bbb9-ded5764cd5d1" width="300"> | <img src="https://github.com/user-attachments/assets/b2a94b32-17cc-4a82-beb1-aa6f0a3e2ed3" width="300"> |
+| 8 | <img src="https://github.com/user-attachments/assets/0c7edb8d-26d0-422e-90fb-6fd7048f13b7" width="300"> | <img src="https://github.com/user-attachments/assets/2d315de3-f394-44ad-b935-4ca9c8fe245b" width="300"> |
+| 9 | <img src="https://github.com/user-attachments/assets/f9221b34-7dd3-47e4-a5b8-cc48dab7d7c0" width="300"> | <img src="https://github.com/user-attachments/assets/b674b6ad-1b62-4dd7-ac9d-9e5a0e2bbda8" width="300"> |
+| 10 | <img src="https://github.com/user-attachments/assets/27e85717-6f28-42ab-89e9-e63d03145999" width="300"> | <img src="https://github.com/user-attachments/assets/38ac14f4-02da-4748-9b52-1f219bcd8fa4" width="300"> |
+| 11 | <img src="https://github.com/user-attachments/assets/b39f7ead-096b-40db-b49e-94569881cd4f" width="300"> | <img src="https://github.com/user-attachments/assets/cead3a49-ba72-45b7-b71d-166e25bbde53" width="300"> |
+| 12 | <img src="https://github.com/user-attachments/assets/9ed0859f-13a2-48bd-94f6-278f5b7de223" width="300"> | <img src="https://github.com/user-attachments/assets/94dfba24-43d4-49e0-8dd1-08db46932463" width="300"> |
+| 13 | <img src="https://github.com/user-attachments/assets/5316338a-3213-4916-91cd-f2a62b8f0cea" width="300"> | <img src="https://github.com/user-attachments/assets/fcf2b2ed-1464-4cae-89da-bd52f8b3261c" width="300"> |
+| 14 | <img src="https://github.com/user-attachments/assets/c06a5407-d38f-4047-87dd-d825ecb33521" width="300"> | <img src="https://github.com/user-attachments/assets/090b12d9-17fa-45f0-b92b-5fa9e55356f3" width="300"> |
+| 15 | <img src="https://github.com/user-attachments/assets/8b71c998-53ed-4972-a066-4a03baff2a57" width="300"> | <img src="https://github.com/user-attachments/assets/ae7b9c12-3a27-446a-b5b2-f7dd1fec6462" width="300"> |
+| 16 | <img src="https://github.com/user-attachments/assets/2ac1aeb8-3e3e-4887-9444-f1bb27c913ef" width="300"> | <img src="https://github.com/user-attachments/assets/07bd7461-747c-47e6-baaa-e44b6d9941f7" width="300"> |
+
 # References
 
 - LLM generation
