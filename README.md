@@ -1,10 +1,20 @@
 # Sudoku Visual Extractor and Solver
 
-The project uses computer vision techniques like contrast manipulation, rotation, morphological operations, and Hough transforms to extract the Sudoku board, recognize the numbers using OCR, and solve the Sudoku puzzle.
+MagdElDin AbdalRaaof
+
+Mark George
+
+Noran Askar
+
+Abdallah Elrefaey
+
+# Introduction
+
+The project uses computer vision techniques like contrast manipulation, rotation, morphological operations, and Hough transforms to extract the Sudoku board, recognize the numbers using OCR powered by a hybrid model of rules-based detection and template matching, and solve the Sudoku puzzle if it is legal by using a backtracking algorithm. Developing the pipeline took hours of trial and error from figuring out how to preprocess as many images as possible with the same pipeline to testing different methods of board extraction and OCR.
 
 To run it properly, we recommend having a folder called inputs for the images and use the folder for the templates.
 
-# The Pipeline
+# Methodology
 
 # First Image Preprocessing
 
