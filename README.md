@@ -1,12 +1,12 @@
 # Sudoku Visual Extractor and Solver
 
+Abdallah Elrefaey
+
 MagdElDin AbdalRaaof
 
 Mark George
 
 Noran Askar
-
-Abdallah Elrefaey
 
 # Introduction
 
